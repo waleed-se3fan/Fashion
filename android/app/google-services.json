@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "661823581081",
+    "project_id": "myfirebase-83e20",
+    "storage_bucket": "myfirebase-83e20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661823581081:android:847c8e382d085431d18108",
+        "android_client_info": {
+          "package_name": "com.example.fashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661823581081-389hnu0tq6todpv9easua08des11bqqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashion",
+            "certificate_hash": "9630fc357a881c03ac0790a49eb546807dfd1ec8"
+          }
+        },
+        {
+          "client_id": "661823581081-cak026fl36nampojjvlpm0q8dst75jmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyUNc57NMGgQjvVXeYi727Ri4pVuSaiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661823581081-cak026fl36nampojjvlpm0q8dst75jmj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661823581081-fqjb1ok6m997pmguvvj013o495il05lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fashion"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661823581081:android:c5b7fc8b03e842e9d18108",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661823581081-cak026fl36nampojjvlpm0q8dst75jmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWyUNc57NMGgQjvVXeYi727Ri4pVuSaiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661823581081-cak026fl36nampojjvlpm0q8dst75jmj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661823581081-fqjb1ok6m997pmguvvj013o495il05lt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fashion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
